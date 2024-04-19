@@ -1,1 +1,3 @@
-echo "# templateAdmin";
+
+Giao diện admin
+
